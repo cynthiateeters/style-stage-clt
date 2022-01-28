@@ -1,0 +1,19 @@
+{
+  "name": "style-stage-clt",
+  "version": "1.0.0",
+  "description": "A Pen created on CodePen.io. Original URL: [https://codepen.io/cynthiateeters/pen/b70ddf9f1987ee13f40d66c722f22903](https://codepen.io/cynthiateeters/pen/b70ddf9f1987ee13f40d66c722f22903).",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cynthiateeters/style-stage-clt.git"
+  },
+  "author": "Cynthia Teeters",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cynthiateeters/style-stage-clt/issues"
+  },
+  "homepage": "https://github.com/cynthiateeters/style-stage-clt#readme"
+}
