@@ -1,0 +1,6 @@
+@import "https://unpkg.com/open-props";
+@import "https://unpkg.com/open-props/normalize.min.css";
+
+:where(p) {
+  padding: var(--size-fluid-1);
+}
